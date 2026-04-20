@@ -12,8 +12,8 @@ export default defineConfig({
   },
   themeConfig: {
     footer: {
-      message: 'VitePress Blog Starter',
-      copyright: 'Copyright © 2023 SFXCode',
+      message: 'FlowZ',
+      copyright: 'Copyright © 2026 SFXCode',
     },
     search: {
       provider: 'local',
@@ -36,7 +36,7 @@ export default defineConfig({
     },
 
   },
-  title: 'VitePress Blog Starter',
+  title: 'FlowZ',
   vite: {
     plugins: [
       Unocss({
